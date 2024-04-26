@@ -71,12 +71,6 @@
 
 ###
 
-<h4 align="left">Take a </BR></h4>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/guilty03/guilty03/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -36,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />

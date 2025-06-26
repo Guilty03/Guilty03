@@ -32,9 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Guilty03&theme=dracula&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilty03&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Guilty03&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Guilty03&theme=dracula&margin-w=8&margin-h=8" height="180" />
 </div>
 
 ###
